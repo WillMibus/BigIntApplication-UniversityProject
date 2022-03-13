@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/williammibus/Documents/Computer Programming 2/BigInt Assignment/Bigint.h
+iostream
+-
+
+/Users/williammibus/Documents/Computer Programming 2/BigInt Assignment/main.cpp
+iostream
+-
+sstream
+-
+Bigint.h
+/Users/williammibus/Documents/Computer Programming 2/BigInt Assignment/Bigint.h
+
